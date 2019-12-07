@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "id": 8,
+      "titles": ["No \"sad\" content","No captioned pictures/videos","No asking for upvotes or approval",
+        "No harassment","Posts must link to sites on our approved list","No NSFW content","No asking for donations or adoptions",
+        "No bots or bot-like behaviour", "No lying about ownership", "No social media"],
+      "descriptions": ["No \"sad\" content, such as pics of animals that have passed away (try /r/petloss), animals that have been injured/abused, or sob stories (e.g. found him in a dumpster, finding abandoned animals, sick/survived cancer).",
+      "No comics, captioned pictures/videos (try /r/lolcats, r/cute, or /r/animaltextgifs), or photos of just text. No memes or snapchat captions.",
+      "No post titles asking for upvotes or approval, such as \"any love for...\", \"what does /r/aww think of...\", or \"this didn't get much love on...\", or \"karma machine\", \"sort by new\", \"don't scroll past\", \"not your typical aww\", \"r/aww needs more [X] animals\".",
+      "No slurs or harassing comments.", "No posts with links to sites not on the approved list.",
+      "This includes not only inappropriate images but also inappropriate text, innuendo, or inappropriate jokes in comments. No comments about how dangerous certain domesticated breeds are, or about eating the animals in the post.",
+      "No asking for donations, sponsorship or adoptions (try /r/care or /r/assistance).", 
+      "No bots or bot-like behaviour. This includes copypasting titles and/or comments, or generally acting like a script/bot. No flooding (more than 4 posts in a 24 hour period).",
+      "No false claims of content ownership.", "No links to social media content, whether in comments, submissions, image/video descriptions (including imgur gallery descriptions for direct links), or as superimposed text in an image. Handles are okay in comments as long as they're not links."]
+    },
+    {
+      "id": 9,
+      "titles": ["Violation of Reddit self-promotion rules", "Hatespeech", "Ambiguous titles/Clickbait",
+        "Spam - Promotion of a website/link over and over", "Flame war - Crosses the line of civility",
+        "Possible subreddit brigading", "TV ad/TV spot masquerading as a \"clip\"/\"trailer\"",
+        "Extraneous Comic Book Movie submission", "Repost", "Avoid destructive behaviour"],
+      "descriptions": ["https://www.reddit.com/wiki/selfpromotion", "If it's a quote from a movie - fine. If it's immature 4channery or something that looks like rhetoric straight out of /r/The_Donald - let us know.\n\nRemember that discussion about derogatory/offensive/sensitive issues often leads to unnecessary conflict.",
+      "Buzzfeed-y and MoviePilot-esque sites should be reported with this label.\n\nAny type of \"This movie is amazing!\" submission that doesn't include the subject in the submission title.\n\nSubmission titles that do not refer to the name of the movie the post is talking about are also bounds for removal under this rule.",
+      "Archetypal garbage post that clogs up our /new/ feed\n\nPosts like this will be removed immediately and may result in a possible ban.",
+      "We usually draw the line around name calling, but intentionally antagonizing users will result in an immediate ban.\n\nRespect differences of opinion, and resist the urge to be defensive or assign blame. Remember that people have different communication styles, and that not everyone is using their native language when using reddit.\n\nInterpret other redditors' arguments in good faith, and give people the benefit of the doubt. When you do disagree with someone/something, try to understand why.",
+      "Example:\n\n/r/DC_Cinematic brigaded us for removing Batman v Superman TV Spots\n\nReport possible brigading operations with this tag.",
+      "TV Spots will be deleted on sight on /r/movies, please see this post for more details.\n\nWe recently updated automod to remove posts with the words \"TV Spot\" in it. But that doesn't stop users from submitting them by labeling them as \"clips\" or \"new trailers\". Please use this tag to report garbage TV spot submissions masquerading as \"new content\".",
+      "Anything that isn't official, hard-lined news about comic book movies/Superhero movies will be removed. No featurettes, fan art, parodies, etc.\n\nThat means nothing from HeroicHollywood, nothing from ScreenJunkies Movie Fights or anything from El Mayimbe.\n\nPlease read the wiki for further information",
+      "Light 'em up", "Try not to offer UNconstructive criticism; offer or at least solicit suggestions on how to change/improve a POV or argument.\n\nBeing snarky and aggressive is not conducive to the great discussion that we've come to know and expect from /r/movies, so keep snipes and insults to a minimum. It is the responsibility of all parties to de-escalate conflict when it arises."]
+    },
+    {
+      "id": 10,
+      "titles": ["Inaccurate/unverifiable/not supported by source", "No personal opinions/anecdotes/subjective posts",
+        "No recent sources","No politics/agenda pushing","No misleading claims","Too general/can't stand on its own/how to",
+        "No submissions about software/websites","All NSFW links must be tagged."],
+      "descriptions": ["Please link directly to a reliable source that supports every claim in your post title. Images alone do not count as valid references. Videos are fine so long as they come from reputable sources (e.g. BBC, Discovery, etc).",
+      "(e.g \"TIL xyz is a great movie\")", "Any sources (blog, article, press release, video, etc.) more recent than two months are not allowed.",
+      "No submissions regarding or related to the following: recent politics, politicians, police misconduct, race/religion/gender. See wiki for more detailed explanation",
+      "Posts that omit essential information, or present unrelated facts in a way that suggest a connection will be removed.",
+      "a. Titles must begin with \"TIL\" or \"Today I Learned\" b. Make them descriptive, concise and specific (e.g. not \"TIL something interesting about bacon\"). c. Titles must be able to stand on their own without requiring readers to click on a link. d. \"TIL about ...\" and other broad posts don't belong on TIL. Try /r/Wikipedia, etc. instead, or be more specific (and avoid the word \"about\"). e. \"TIL how to ...\" posts belong on /r/HowTo.",
+      "No submissions related to the usage, existence or features of specific software/websites (e.g. \"TIL you can click on widgets in WidgetMaker 1.22\")."]
+    }
+  ]
+}
+  
+ 
